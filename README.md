@@ -22,6 +22,7 @@ Who Is It For?
 
 Download now and make paint mixing more precise and efficient!
 
+![hi](paintMixing1.png)
 
 <span style="color:red; font-size:18px;">Support or Contact</span>
 
